@@ -1,8 +1,5 @@
 # Google data centres: water, PUE and published models
 
-> **Status: unpublished research in progress. Do not make this repository public, or cite results from it,
-> without the agreement of all project members.**
-
 Code and data behind a project testing published models of data centre water and energy use
 (Lei & Masanet 2022; Siddik et al. 2021; Lei et al. 2023) against what Google discloses at facility level
 in its Environmental Reports (2023-2026 editions).
@@ -77,11 +74,6 @@ Outputs are written to `outputs/`.
 - The within-site comparison is descriptive: site load growth is not observed, so it is not an efficiency claim.
 - About 10% of Google's data-centre water is in unlocated "Other" sites.
 - Gross consumption is used; Google's water replenishment is not netted off.
-
-## AI assistance
-
-Data transcription, validation scripts and analysis were developed with Claude (Anthropic). Key values were
-checked against the source PDFs.
 
 ## References
 
