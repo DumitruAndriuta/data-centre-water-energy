@@ -1,0 +1,18 @@
+site,campus,pue_2025,climate_zone_pre2021,climate_zone_iecc2021,case1_best,case2_best,beats_case1,beats_case2
+Berkeley County SC,,1.09,3A,3A,1.132,1.087,True,False
+Council Bluffs IA,1st facility,1.11,5A,5A,1.1,1.083,False,False
+Council Bluffs IA,2nd facility,1.08,5A,5A,1.1,1.083,True,True
+The Dalles OR,1st facility,1.1,5B,5B,1.089,1.08,False,False
+The Dalles OR,2nd facility,1.06,5B,5B,1.089,1.08,True,True
+Douglas County GA,,1.09,3A,3A,1.132,1.087,True,False
+Henderson NV,,1.09,3B,3B,1.109,1.08,True,False
+Jackson County AL,,1.1,3A,3A,1.132,1.087,True,False
+Lenoir NC,,1.1,4A,4A,1.109,1.084,True,False
+Mayes County OK,,1.12,3A,3A,1.132,1.087,True,False
+Midlothian TX,,1.1,3A,2A,1.132,1.087,True,False
+Montgomery County TN,,1.09,4A,4A,1.109,1.084,True,False
+New Albany OH,,1.06,5A,4A,1.1,1.083,True,True
+Papillion NE,,1.09,5A,5A,1.1,1.083,True,False
+Storey County NV,,1.14,5B,5B,1.089,1.08,False,False
+Omaha NE,,1.05,5A,5A,1.1,1.083,True,True
+Lancaster OH,,1.04,5A,5A,1.1,1.083,True,True

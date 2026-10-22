@@ -1,0 +1,17 @@
+water_location,pue_2022,pue_2025,C22,C25,growth,pue_change,pue_direction
+"St. Ghislain, Belgium",1.09,1.08,270.6,450.8,1.666,-0.01,improved
+"Quilicura, Chile",1.09,1.08,103.6,143.0,1.38,-0.01,improved
+"Fredericia, Denmark",1.12,1.07,19.2,71.8,3.74,-0.05,improved
+"Hamina, Finland",1.09,1.1,0.4,0.4,1.0,0.01,worse
+"Dublin, Ireland",1.09,1.08,0.1,0.1,1.0,-0.01,improved
+"Eemshaven, Netherlands",1.07,1.07,226.8,405.7,1.789,0.0,flat
+"Berkeley County, SC",1.1,1.09,662.1,901.7,1.362,-0.01,improved
+"Douglas County, GA",1.09,1.09,305.2,367.1,1.203,0.0,flat
+"Henderson, NV",1.11,1.09,82.1,239.4,2.916,-0.02,improved
+"Jackson County, AL",1.12,1.1,94.0,173.6,1.847,-0.02,improved
+"Lenoir, NC",1.09,1.1,320.5,344.3,1.074,0.01,worse
+"Mayes County, OK",1.1,1.12,689.7,1081.4,1.568,0.02,worse
+"Midlothian, TX",1.16,1.1,93.3,220.2,2.36,-0.06,improved
+"Montgomery County, TN",1.11,1.09,248.7,424.7,1.708,-0.02,improved
+"New Albany, OH",1.14,1.06,49.6,835.7,16.849,-0.08,improved
+"Papillion, NE",1.13,1.09,46.6,548.2,11.764,-0.04,improved

@@ -1,0 +1,9 @@
+location,year,withdrawal_Mgal,discharge_Mgal,consumption_Mgal,source_report,notes
+Data centers total,2022,6621.4,1401.9,5219.9,g2023,printed total
+Data centers total,2023,7657.2,1556.6,6100.6,g2024,printed total
+Data centers total,2024,9866.0,2079.0,7787.0,g2025,printed total
+Other data center locations,2022,664.3,61.4,602.9,g2023,aggregate; split potable 172.0 / non-potable 136.3 / reclaimed 356.0 (withdrawal)
+Other data center locations,2023,698.5,57.9,640.6,g2024,aggregate; split potable 31.1 / non-potable 296.6 / reclaimed 370.8 (withdrawal)
+Data centers total,2025,13562.0,3039.0,10523.0,g2026,printed total
+Other data center locations,2025,1020.3,101.1,919.2,g2026,aggregate; split potable 17.4 / non-potable 479.1 / reclaimed 523.8 (withdrawal)
+Other data center locations,2024,828.9,60.0,768.9,g2025,aggregate; split potable 10.7 / non-potable 377.9 / reclaimed 440.3 (withdrawal)
