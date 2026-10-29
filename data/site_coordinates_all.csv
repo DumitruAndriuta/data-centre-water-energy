@@ -1,0 +1,41 @@
+site,lat,lon,status,source
+"St. Ghislain, Belgium",50.469146,3.865324,VERIFIED,facility dataset (OSM)
+"Quilicura, Chile",-33.358653,-70.69697,VERIFIED,facility dataset (OSM)
+"Fredericia, Denmark",55.557281,9.653006,VERIFIED,facility dataset (OSM)
+"Hamina, Finland",60.537892,27.116574,VERIFIED,facility dataset (OSM)
+"Eemshaven, Netherlands",53.425951,6.864281,VERIFIED,facility dataset (OSM)
+"Douglas County, GA",33.75003,-84.585255,VERIFIED,facility dataset (OSM)
+"Henderson, NV",36.05811,-115.00897,VERIFIED,facility dataset (OSM)
+"Jackson County, AL",34.913049,-85.748105,VERIFIED,facility dataset (OSM)
+"Lenoir, NC",35.892478,-81.546908,VERIFIED,facility dataset (OSM)
+"Midlothian, TX",32.4432,-97.062509,VERIFIED,facility dataset (OSM)
+"Montgomery County, TN",36.625417,-87.263353,VERIFIED,facility dataset (OSM)
+"New Albany, OH",40.059495,-82.764378,VERIFIED,facility dataset (OSM)
+"Papillion, NE",41.136126,-96.146213,VERIFIED,facility dataset (OSM)
+"Storey County, NV",39.49669,-119.430845,VERIFIED,facility dataset (OSM)
+"Inzai, Japan",35.818343,140.133021,VERIFIED,facility dataset (OSM)
+"Council Bluffs, IA",41.173058,-95.802729,VERIFIED,facility dataset (OSM)
+"The Dalles, OR",45.632005,-121.201026,VERIFIED,facility dataset (OSM)
+"Dublin, Ireland",53.315,-6.451,VERIFIED,OSM data_center building Grange Castle (was approx centroid)
+"Berkeley County, SC",33.064,-80.044,VERIFIED,OSM landuse Google Berkeley County Data Center (was approx centroid)
+"Mayes County, OK",36.239,-95.324,VERIFIED,OSM relation 11581698 Google Mayes County (was approx centroid)
+"Lancaster, OH",39.724,-82.6911,VERIFIED,IM3 building 01252196824 / OSM way 1501120016
+"Omaha, NE",41.3421,-96.0886,VERIFIED,IM3 buildings 01422101108/112/116 / OSM landuse 1339825480
+"Lockbourne, OH",39.8521,-82.9949,VERIFIED,IM3 building 01252196814 / OSM landuse Google Lockbourne
+"Bristow, VA",38.7766,-77.5848,VERIFIED,IM3 buildings (13001 Rollins Ford Rd)
+"Leesburg, VA",39.0526,-77.5396,VERIFIED,IM3 building 00710070925 (Stonewall Creek)
+"Ashburn, VA",38.9424,-77.5261,APPROX,facility not located; every candidate (Arcola campus and Ashburn town) falls in the same basin 731801-USA.47_1-1414
+"Sterling, VA",38.9424,-77.5261,VERIFIED,Google Arcola Bldgs 1-2 (OSM ways 693385812/1173770902) postal address 24400-24550 Howling Rooster Ln Sterling VA 20166
+"Red Oak, TX",32.539,-96.7932,VERIFIED,IM3 building 01426525184
+"Middenmeer, Netherlands",52.80,4.99,APPROX,town centroid
+"Mesa, AZ",33.38,-111.63,APPROX,town-area centroid
+"New Haven, IN",41.07,-85.01,APPROX,town centroid
+"Frankfurt, Germany",50.11,8.68,APPROX,city centroid
+"Hanau, Germany",50.13,8.92,APPROX,town centroid
+"Montreal, Canada",45.50,-73.57,APPROX,city centroid
+"Sydney, Australia",-33.87,151.21,APPROX,city centroid
+"Pflugerville, TX",30.44,-97.62,APPROX,town centroid
+"Phoenix, AZ",33.45,-112.07,APPROX,city centroid
+"San Bernardo, Chile",-33.59,-70.70,APPROX,town centroid
+"Wilmer, TX",32.59,-96.69,APPROX,town centroid
+"Winschoten, Netherlands",53.14,7.03,APPROX,town centroid
