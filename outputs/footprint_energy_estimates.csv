@@ -1,0 +1,24 @@
+site,county,state,n_buildings,footprint_sqft,it_mw_at_100w,it_mwh_yr_60pct,coverage_flag,im3_ids
+Berkeley County SC,Berkeley County,SC,9,2122326,212.2,1115495,ok,00610827836;01069388067;01069388075;01069388095;01069388141;01069388147;01069388156;01069388186;01069388211
+Council Bluffs IA,Pottawattamie County,IA,16,2883934,288.4,1515796,ok,01073720208;01073720209;01073720210;01073720211;01073720212;01073720213;01073720214;01073720215;01073720216;01073720217;01073720218;01073720219;01073720220;01073720221;01287260560;01287260561
+Douglas County GA,Douglas County,GA,0,,,,absent_no_google_building,
+Henderson NV,Clark County,NV,2,285096,28.5,149846,likely_undercount_le2_bldgs,00844359206;00844359207
+Jackson County AL,Jackson County,AL,2,286943,28.7,150817,likely_undercount_le2_bldgs,00844371952;00844371953
+Lenoir NC,Caldwell County,NC,0,,,,absent_no_google_building,
+Mayes County OK,Mayes County,OK,0,,,,absent_no_google_building,
+Midlothian TX,Ellis County,TX,3,565088,56.5,297010,ok,00844386860;00844386861;01458626323
+Montgomery County TN,Montgomery County,TN,4,678966,67.9,356865,ok,00844389014;01103333136;01103333137;01470261550
+New Albany OH,Franklin County/Licking County,OH,7,1613186,161.3,847891,ok,00844391358;01222007663;01252196811;01252196812;01386016632;01386016633;01427613543
+Papillion NE,Sarpy County,NE,4,1040280,104.0,546771,ok,00844394357;01237493975;01237494981;01312801354
+Omaha NE,Douglas County,NE,3,870396,87.0,457480,ok,01422101108;01422101112;01422101116
+Lancaster OH,Fairfield County,OH,1,289253,28.9,152031,likely_undercount_le2_bldgs,01252196824
+Lockbourne/Columbus OH,Franklin County,OH,1,289874,29.0,152358,likely_undercount_le2_bldgs,01252196814
+Storey County NV,Storey County,NV,0,,,,absent_no_google_building,
+The Dalles OR,Wasco County,OR,0,,,,absent_no_google_building,
+Ashburn/Sterling VA (Arcola campus),Loudoun County,VA,2,505817,50.6,265857,likely_undercount_le2_bldgs,00693385812;01173770902
+Leesburg VA,Loudoun County,VA,1,140634,14.1,73917,likely_undercount_le2_bldgs,00710070925
+Bristow VA,Prince William County,VA,3,868944,86.9,456717,ok,01252196815;01287260553;01464257783
+Red Oak TX,Ellis County,TX,1,288830,28.9,151809,likely_undercount_le2_bldgs,01426525184
+New Haven IN,Allen County,IN,0,,,,absent_no_google_building,
+Mesa AZ,Maricopa County,AZ,0,,,,absent_no_google_building,
+"Thornton CO (extra, not in target list)",Adams County,CO,1,86059,8.6,45233,likely_undercount_le2_bldgs,00426586135

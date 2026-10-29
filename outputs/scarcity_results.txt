@@ -1,0 +1,80 @@
+=== Coverage: named sites as share of printed data-centre total ===
+2022: withdrawal 90.0%  consumption 88.4%
+2023: withdrawal 90.9%  consumption 89.5%
+2024: withdrawal 91.6%  consumption 90.1%
+2025: withdrawal 92.5%  consumption 91.3%
+
+=== Q1: share of water from stressed / depleted basins (all named sites) ===
+2022: withdrawal from High+ stress (bws>=3)  16.3%   consumption from depletion >=2   8.1%   withdrawal from depletion >=2   9.5%
+2023: withdrawal from High+ stress (bws>=3)  15.1%   consumption from depletion >=2   6.4%   withdrawal from depletion >=2   7.8%
+2024: withdrawal from High+ stress (bws>=3)  16.2%   consumption from depletion >=2   7.3%   withdrawal from depletion >=2   8.1%
+2025: withdrawal from High+ stress (bws>=3)  17.6%   consumption from depletion >=2   6.3%   withdrawal from depletion >=2   8.1%
+Google self-reported (freshwater withdrawal, high risk of depletion or scarcity): 15% (2023), 14% (2024), 13% (2025).
+
+=== Q2: growth 2022 -> 2025, raw vs scarcity-weighted (sites present both years) ===
+W             5,957 ->    10,918  x1.83
+W_stress      9,474 ->    17,613  x1.86
+C             4,617 ->     8,483  x1.84
+C_depl        3,705 ->     6,687  x1.81
+(n=23 sites)
+By stress band (withdrawal growth):
+  Low <1      n=11    3,090 ->   5,659  x1.83
+  Medium 1-3  n= 7    1,894 ->   3,437  x1.81
+  High 3+     n= 5      974 ->   1,822  x1.87
+New sites entering after 2022 (2025 withdrawal, stress score):
+  Lockbourne, OH             460.8  bws 2.83
+  Bristow, VA                359.6  bws 3.59
+  Lancaster, OH              307.1  bws 0.00
+  Omaha, NE                  241.8  bws 0.13
+  Inzai, Japan                94.6  bws 2.98
+  Red Oak, TX                 67.0  bws 0.00
+  New Haven, IN               62.2  bws 0.00
+  Mesa, AZ                    19.4  bws 5.00
+  Hanau, Germany               3.4  bws 3.45
+  Wilmer, TX                   2.6  bws 1.85
+  Sydney, Australia            1.4  bws 3.65
+  Frankfurt, Germany           1.2  bws 3.45
+  San Bernardo, Chile          0.9  bws 5.00
+  Phoenix, AZ                  0.5  bws 5.00
+  Pflugerville, TX             0.4  bws 2.78
+  Montreal, Canada             0.3  bws 0.00
+  Winschoten, Netherlands      0.1  bws 1.27
+Withdrawal-weighted mean stress, all named sites: 2022 1.59 -> 2025 1.65
+
+=== Q3: stated cooling method vs water stress (one row per site) ===
+  air-cooled         n= 9  mean stress 3.05  median 3.08  share in High+ (>=3)  56%
+  non-potable source n= 4  mean stress 2.17  median 1.84  share in High+ (>=3)  25%
+  unstated           n=27  mean stress 1.62  median 0.67  share in High+ (>=3)  22%
+  STRICT air-cooled (8 footnoted) n=8  mean stress 2.80  share High+  50%
+  STRICT (Mesa excluded: not footnoted air-cooled in g2026) non-potable source n= 4  mean stress 2.17  share High+  25%
+  STRICT (Mesa excluded: not footnoted air-cooled in g2026) unstated           n=27  mean stress 1.62  share High+  22%
+  air-cooled sites: Mesa, AZ 5.00; Phoenix, AZ 5.00; San Bernardo, Chile 5.00; Sydney, Australia 3.65; Storey County, NV 3.08; Pflugerville, TX 2.78; Wilmer, TX 1.85; Dublin, Ireland 1.07; Montreal, Canada 0.00
+  Caveat: every air-cooled site is small. 2025 withdrawal, air-cooled total 92.7 Mgal vs 12,542 Mgal all named sites.
+
+=== Question A: within-site change 2022 -> 2025 (sites with PUE both years) ===
+                  site  pue22  pue25   C22    C25  growth
+        New Albany, OH   1.14   1.06  49.6  835.7   16.85
+         Papillion, NE   1.13   1.09  46.6  548.2   11.76
+   Fredericia, Denmark   1.12   1.07  19.2   71.8    3.74
+         Henderson, NV   1.11   1.09  82.1  239.4    2.92
+        Midlothian, TX   1.16   1.10  93.3  220.2    2.36
+    Jackson County, AL   1.12   1.10  94.0  173.6    1.85
+Eemshaven, Netherlands   1.07   1.07 226.8  405.7    1.79
+ Montgomery County, TN   1.11   1.09 248.7  424.7    1.71
+ St. Ghislain, Belgium   1.09   1.08 270.6  450.8    1.67
+      Mayes County, OK   1.10   1.12 689.7 1081.4    1.57
+      Quilicura, Chile   1.09   1.08 103.6  143.0    1.38
+   Berkeley County, SC   1.10   1.09 662.1  901.7    1.36
+    Douglas County, GA   1.09   1.09 305.2  367.1    1.20
+            Lenoir, NC   1.09   1.10 320.5  344.3    1.07
+       Dublin, Ireland   1.09   1.08   0.1    0.1    1.00
+       Hamina, Finland   1.09   1.10   0.4    0.4    1.00
+PUE improved 11/16, flat 2, worse 3; water rose at 14/16; median growth 1.69x (excl. Dublin/Hamina tiny bases: 1.75x)
+Council Bluffs and The Dalles excluded here: two PUE campuses, one water row (see aggregation rule).
+
+=== Q1 on freshwater basis ===
+2022: freshwater withdrawal from High+ stress (bws>=3)  12.2%  | from depletion >=2   4.1%  | St. Ghislain freshwater 14.2 of 382.4
+2023: freshwater withdrawal from High+ stress (bws>=3)  12.2%  | from depletion >=2   3.6%  | St. Ghislain freshwater 22.3 of 348.9
+2024: freshwater withdrawal from High+ stress (bws>=3)  12.6%  | from depletion >=2   3.0%  | St. Ghislain freshwater 13.7 of 511.7
+2025: freshwater withdrawal from High+ stress (bws>=3)  13.9%  | from depletion >=2   3.0%  | St. Ghislain freshwater 27.6 of 714.4
+Google (freshwater withdrawal, all operations, own risk framework): 15% (2023, g2024 p.~70), 14% (2024, g2025 appendix), 13% (2025, g2026 appendix). Unitemised non-potable at other sites is still counted as fresh, so these are upper bounds.
